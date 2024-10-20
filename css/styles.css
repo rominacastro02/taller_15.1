@@ -1,0 +1,35 @@
+.navbar-dark{
+    background-color: #7b7f82
+}
+
+.form-control {
+    border-radius: 5%;
+    margin-left: 2%;
+}
+
+h1 {
+    margin-top: 7%;
+}
+
+.list-group-item {
+    text-decoration: underline;
+}
+
+.d-flex {
+    text-align: justify;
+}
+
+.text{
+    background-color: rgb(231, 231, 231);
+    padding: 2%;
+}
+
+
+.nav-item.dropdown {
+    position: relative;
+
+}
+
+.dropdown-item.border {
+    border-color: #7b7f82;
+}
